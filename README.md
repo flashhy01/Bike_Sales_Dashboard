@@ -11,7 +11,7 @@ The interactive dashboard was built entirely in Microsoft Excel using advanced P
 
 **The Dashboard**
 
-![Bike Sales Dashboard](YOUR_SCREENSHOT_IMAGE_LINK_HERE)
+![Bike Sales Dashboard](https://github.com/flashhy01/Bike_Sales_Dashboard/blob/Images/bike%20sales%20dashboard.jpg?raw=true)
 
 
 **Data Engineering & Preparation**
